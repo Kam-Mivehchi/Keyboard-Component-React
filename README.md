@@ -13,7 +13,8 @@ Keyboard is only responsive on screen size > 950px and some of the keys overflow
 
 ## Installation
 ```
-clone the repository locally
+git clone git@github.com:Kam-Mivehchi/Keyboard-Component-React.git
+cd Keyboard-Component-React
 npm i
 npm start
 ```
